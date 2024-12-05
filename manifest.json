@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "XJTLU Link Converter",
+  "version": "1.0",
+  "description": "Convert any URL to pass through XJTLU E-Link service.",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": "icons/icon.png"
+  }
+}

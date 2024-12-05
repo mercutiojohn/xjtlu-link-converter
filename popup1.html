@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Link Converter</title>
+</head>
+
+<body>
+  <button id="convertBtn">Convert Link</button>
+  <script>
+    document.getElementById('convertBtn').addEventListener('click', function () {
+      chrome.runtime.sendMessage({ action: 'convertLink' });
+    });
+  </script>
+</body>
+
+</html>
