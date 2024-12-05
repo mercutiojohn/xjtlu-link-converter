@@ -1,4 +1,4 @@
-# XJTLU Link Converter
+# XJTLU Library Link Converter
 
 Convert any accessible links under XJTLU domain to the corresponding mirror links.
 e.g.1: `https://dl.acm.org/` -> `https://dl-acm-org-s.elink.xjtlu.cn/`
