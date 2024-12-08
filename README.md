@@ -1,8 +1,11 @@
 # XJTLU Library Link Converter
 
 Convert any accessible links under XJTLU domain to the corresponding mirror links.
+
 e.g.1: `https://dl.acm.org/` -> `https://dl-acm-org-s.elink.xjtlu.cn/`
+
 e.g.2: `https://www.sciencedirect.com/` -> `https://www-sciencedirect-com-s.elink.xjtlu.cn/`
+
 Used for accessing academic resources from off-campus.
 
 Enjoy research!
